@@ -5,22 +5,103 @@ permalink: /about/
 image: 01.jpg
 ---
 
-Hi, my name is Alex Rodriguez. I like being at the center of events, being free and enjoying every moment. Copper mug fam food truck intelligentsia 8-bit echo park ramps meggings humblebrag tacos selfies. Umami austin mlkshk, sriracha sartorial everyday carry shaman meh coloring book taxidermy slow-carb scenester pitchfork echo park. Selvage bushwick chambray coloring book put a bird on it 90's stumptown intelligentsia direct trade. Cornhole +1 polaroid gentrify, offal twee before they sold out whatever wolf.
+Hi, my name is Ai Yuchen. 
 
 ***
 
-#### Austin scenester...
-<small>2008 - 2018</small>
+#### Education Background 
+<small>09/2016 - 06/2020 </small>
 
-Offal post-ironic before they sold out mixtape you probably haven't heard of them. Pinterest roof party umami everyday carry street art. Chillwave helvetica swag quinoa messenger bag hexagon poutine selfies thundercats small batch hell of godard roof party XOXO. Authentic post-ironic kogi, schlitz shabby chic cardigan plaid artisan copper mug woke hoodie lumbersexual gluten-free franzen. Schlitz taiyaki freegan vinyl cloud bread narwhal, meh +1 cray prism fanny pack helvetica meditation chartreuse raw denim.
+Huazhong University of Science and Technology (HUST)                
 
-#### Vinyl hexagon before...
-<small>2001 - 2008</small>
+Bachelor’s Degree of Engineering 
 
-Chillwave helvetica swag quinoa messenger bag hexagon poutine selfies thundercats small batch hell of godard roof party XOXO. Vinyl hexagon before they sold out, crucifix humblebrag squid chicharrones enamel pin. Iceland humblebrag farm-to-table, lyft pug tilde irony.
-Hot chicken shoreditch tousled listicle, actually meggings vape. Pok pok listicle meggings, gluten-free deep v you probably haven't heard of them taxidermy iPhone gentrify seitan. Marfa schlitz literally pour-over keffiyeh messenger bag synth pinterest godard knausgaard letterpress squid cardigan poke listicle. 
+Specialty: Software Engineering | GPA:   3.1
 
-#### La croix you probably...
-<small>1995 - 2000</small>
+#### Honor
+<small>06/2018 </small>
 
-Shoreditch activated charcoal iceland hexagon. Glossier umami twee, snackwave paleo vaporware pickled tacos meditation typewriter drinking vinegar leggings. Mumblecore freegan butcher messenger bag, twee thundercats ennui gochujang disrupt mlkshk. Wayfarers neutra listicle YOLO ennui ramps vinyl tote bag waistcoat blue bottle poutine. Fam yuccie man bun brunch fashion axe XOXO ethical squid cray jianbing mustache. Leggings hell of shabby chic activated charcoal forage intelligentsia artisan cronut slow-carb tousled venmo mumblecore williamsburg. Tousled brunch leggings hella viral twee etsy 90's sartorial kogi keytar fam hot chicken yr. Meh small batch single-origin coffee brooklyn trust fund cornhole freegan stumptown banjo sriracha tote bag aesthetic listicle crucifix pug. Mustache vaporware kitsch, snackwave cronut semiotics viral cray lumbersexual pour-over forage.
+Gold Award, Global Game Jam (GGJ) 2018, Perfect World Games                 
+
+<small>05/2017  </small>
+
+The 1st Prize, Application Development Event, Vipshop Information Technology 
+
+#### Project Experience  
+<small>08/2020</small>
+
+**Chronus**, Developer
+
+- Finished a complete game under teacher’s instruction; 
+- Completed artistic design and programing independently; 
+- Made a detailed proposal on each level of the game; 
+
+<small> 06/2020</small>
+
+**Somagic**, Developer
+
+- Finished a complete game under teacher’s instruction; 
+- Completed artistic design and programing independently; 
+- Conducted market research for the game’s development (including gamers’ operating habits and preferences, and psychology; investigate the same types of games in the market);
+- Studied the game developing tools like Unity, C4D and video clip technique; 
+
+<small> 08/2018</small>
+
+**ZouMaDao**, Game Designer
+
+- Completed the design of gameplay and game’s world view independently; 
+
+<small>07/2018</small>
+
+**Dragon Stone**, Game Designer
+
+- Completed the design of gameplay, game’s world view, plot and the game’s related copy writing independently; 
+- Participated in discussion of game’s artistic creation meeting and finished some of the scene and character drawing; 
+- Communicated closely with the programmer to realize the in-game functions; 
+
+<small>05/2018</small>
+
+**Sucris**, Game Designer 
+
+- Completed the design of gameplay, game’s world view, plot and the game’s related copy writing independently; 
+- Participated in discussion of game’s artistic creation meeting and offered artful packaging advices; 
+
+<small> 01/2018</small>
+
+**End of World**, Game Designer 
+
+- Completed the design of gameplay, game’s world view and the game’s related copy writing independently; 
+- Participated in discussion of game’s brainstorming meeting and offered game’s theme and gameplay advices; 
+
+#### Internship Experience  
+
+<small> 07/2019-10/2019</small>
+
+**NetEase Games**, Part-time Copywriter                                     
+
+- Explored products information of mobile phone RPG game;  
+- Participated in discussion of game’s project meetings; 
+- Completed the design of gameplay, game’s world view and the game’s related copy writing independently; 
+- Finished part of the game fashion design job; 
+- Wrote the proposal of planning the game’s Halloween theme activities (including the theme of the event and the specific gameplay design); 
+- Learned to use different bookmarks in the requirement document for programmer, art designer, interaction designer and project manager; 
+- Cooperated with QA engineer for debugging and testing of game play experience; 
+
+#### Membership and Activity   
+
+**HUST Youth League Committee Student Union**, Secretary of Arts Department 
+
+- Improved organizing ability through preparing Campus Singers Competition 
+- Learned various aspects of stage designs from lighting to set design; 
+
+**HUST Student Union**, Deputy Director of Public Relationship Department 
+
+- Improved leadership skills by organizing department activities as a student leader; 
+- Developed interpersonal skills by communicating with the demand side for clarifying their needs; 
+- Cooperated and communicated with other departments in matters concerning student union’s activities; 
+
+**HUST Student Radio**, Editorial Director 
+
+- Wrote radio drafts (including comic essays and radio plays), and review other editors’ work;
+- Recruited members according their writing skills and interests; 
+
