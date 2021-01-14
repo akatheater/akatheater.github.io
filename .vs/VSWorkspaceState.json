@@ -1,13 +1,14 @@
 {
   "ExpandedNodes": [
     "",
-    "\\js\\vendors",
     "\\_data",
     "\\_includes",
     "\\_layouts",
     "\\_pages",
-    "\\_sass"
+    "\\_posts",
+    "\\_sass",
+    "\\_sass\\4-layouts"
   ],
-  "SelectedNode": "\\_pages\\about.md",
+  "SelectedNode": "\\_pages\\game.md",
   "PreviewInSolutionExplorer": false
 }
