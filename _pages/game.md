@@ -2,7 +2,7 @@
 layout: page
 title: Game
 permalink: /game/
-image: 01.jpg
+image: 
 ---
 
 ![]({{site.baseurl}}\images\somagic_1.jpg)
