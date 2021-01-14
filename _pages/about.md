@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about/
-image: about2.jpg
+image: about.jpg
 ---
 
 Hi, my name is Ai Yuchen. 
