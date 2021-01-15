@@ -7,7 +7,7 @@ image:
 
 Hi, my name is Ai Yuchen. 
 
-***
+<iframe src="https://player.vimeo.com/video/501029521" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
 #### Education Background 
 <small>09/2016 - 06/2020 </small>
