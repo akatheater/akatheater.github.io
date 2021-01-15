@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Demo video of ZouMaDao"
+title:  "Demo video of Zou Ma Dao"
 date:   2018-07-25 06:47:55 +0300
 image:  ZMD.png
 tags:   Demo
