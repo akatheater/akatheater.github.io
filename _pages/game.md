@@ -7,11 +7,11 @@ image:
 
 ![]({{site.baseurl}}\images\somagic_1.jpg)
 ![]({{site.baseurl}}\images\somagic_2.jpg)
+![]({{site.baseurl}}\images\somagic_7.jpg)
 ![]({{site.baseurl}}\images\somagic_3.jpg)
 ![]({{site.baseurl}}\images\somagic_4.jpg)
 ![]({{site.baseurl}}\images\somagic_5.jpg)
 ![]({{site.baseurl}}\images\somagic_6.jpg)
-![]({{site.baseurl}}\images\somagic_7.jpg)
 ![]({{site.baseurl}}\images\somagic_8.jpg)
 ![]({{site.baseurl}}\images\somagic_9.jpg)
 ![]({{site.baseurl}}\images\chronus_1.jpg)
